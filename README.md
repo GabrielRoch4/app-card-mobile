@@ -15,6 +15,6 @@ Aprimoramento Visual: Bordas arredondadas e sombras são aplicadas aos campos e 
 Tipografia Ajustada: Fontes personalizadas foram utilizadas para melhorar a legibilidade e usabilidade, tornando os campos de entrada claros e de fácil acesso.
 
 ## Tecnologias Utilizadas
-Linguagem: Java ou Kotlin
+Linguagem: Java
 Layout XML Personalizado: Utilização de ConstraintLayout e estilos personalizados
 Android Studio: Ferramenta de desenvolvimento e emulador para testes
